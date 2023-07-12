@@ -1,4 +1,2 @@
-#!/bin/baash
-echo "Hello, Worl"
-”
-
+#!/bin/bash
+echo "Hello, World"
