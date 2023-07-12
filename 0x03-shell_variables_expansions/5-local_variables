@@ -1,3 +1,2 @@
 #!/bin/bash
-set
-
+print("Local Variables:" "Environment Variables:" "Functions:")
