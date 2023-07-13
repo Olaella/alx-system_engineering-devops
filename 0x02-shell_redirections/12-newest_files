@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the 10 newest files in the current directory:"
+echo the 10 newest files in the current directory
